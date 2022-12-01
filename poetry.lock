@@ -30,7 +30,7 @@ tests_no_zope = ["coverage[toml] (>=5.0.2)", "hypothesis", "pympler", "pytest (>
 
 [[package]]
 name = "awswrangler"
-version = "2.13.0"
+version = "2.14.0"
 description = "Pandas on AWS."
 category = "main"
 optional = false
